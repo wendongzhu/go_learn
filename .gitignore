@@ -1,0 +1,18 @@
+
+# Package Files #
+
+
+# Go Mod Files #
+go.mod
+go.sum
+vendor/
+
+# Git Files #
+.git/
+
+# GoLand Files #
+.idea/
+
+
+# Other Files #
+go_learn_old/
