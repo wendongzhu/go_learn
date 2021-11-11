@@ -2,6 +2,9 @@
 # Package Files #
 
 
+# Build Files #
+*.exe
+
 # Go Mod Files #
 go.mod
 go.sum
@@ -15,4 +18,4 @@ vendor/
 
 
 # Other Files #
-go_learn_old/
+/go_learn_old/
