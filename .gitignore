@@ -5,13 +5,20 @@
 # Build Files #
 *.exe
 
+
+# Log Files #
+*.log
+
+
 # Go Mod Files #
 go.mod
 go.sum
 /vendor/
 
+
 # Git Files #
 /.git/
+
 
 # GoLand Files #
 /.idea/
